@@ -1053,3 +1053,57 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.09.14-14.48.28:022][ 52]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
 [2023.09.14-14.48.28:027][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
 [2023.09.14-14.48.28:057][ 53]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2023.09.14-14.50.28:082][787]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.09.14-14.50.28:090][787]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.14-14.50.28:090][787]PIE: New page: PIE session: AzmyrTest (15 Sep 2023, 6:50:28 am)
+[2023.09.14-14.50.28:090][787]LogPlayLevel: Creating play world package: /Game/KennyBlockout/UEDPIE_0_AzmyrTest
+[2023.09.14-14.50.28:095][787]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004895s)
+[2023.09.14-14.50.28:095][787]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/KennyBlockout/AzmyrTest.AzmyrTest to /Game/KennyBlockout/UEDPIE_0_AzmyrTest.AzmyrTest (0.004973s)
+[2023.09.14-14.50.28:095][787]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.09.14-14.50.28:095][787]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.14-14.50.28:096][787]LogAIModule: Creating AISystem for world AzmyrTest
+[2023.09.14-14.50.28:096][787]LogPlayLevel: PIE: World Init took: (0.000657s)
+[2023.09.14-14.50.28:122][787]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.09.14-14.50.28:123][787]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.09.14-14.50.28:124][787]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.14-14.50.28:124][787]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.14-14.50.28:124][787]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.14-14.50.28:124][787]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.14-14.50.28:124][787]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.09.14-14.50.28:124][787]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.09.14-14.50.28:124][787]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.09.14-14.50.28:124][787]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.14-14.50.28:124][787]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.14-14.50.28:124][787]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.14-14.50.28:124][787]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.14-14.50.28:126][787]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.14-14.50.28:147][787]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2023.09.14-14.50.28:148][787]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.14-14.50.28:148][787]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.14-14.50.28:148][787]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.14-14.50.28:148][787]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2023.09.14-14.50.28:148][787]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2023.09.14-14.50.28:149][787]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2023.09.14-14.50.28:149][787]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2023.09.14-14.50.28:149][787]LogInit: FAudioDevice initialized.
+[2023.09.14-14.50.28:149][787]LogAudio: Display: Audio Device (ID: 7) registered with world 'AzmyrTest'.
+[2023.09.14-14.50.28:177][787]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.14-14.50.28:177][787]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.09.14-14.50.28:178][787]LogWorld: Bringing World /Game/KennyBlockout/UEDPIE_0_AzmyrTest.AzmyrTest up for play (max tick rate 0) at 2023.09.14-22.50.28
+[2023.09.14-14.50.28:178][787]LogWorld: Bringing up level for play took: 0.001050
+[2023.09.14-14.50.28:180][787]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2023.09.14-14.50.28:183][787]PIE: Server logged in
+[2023.09.14-14.50.28:184][787]PIE: Play in editor total start time 0.094 seconds.
+[2023.09.14-14.50.28:213][787]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.09.14-14.50.33:975][471]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.14-14.50.33:975][471]LogWorld: BeginTearingDown for /Game/KennyBlockout/UEDPIE_0_AzmyrTest
+[2023.09.14-14.50.33:975][471]LogSlate: Window 'FYP_PaperPal Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.09.14-14.50.33:980][471]LogWorld: UWorld::CleanupWorld for AzmyrTest, bSessionEnded=true, bCleanupResources=true
+[2023.09.14-14.50.33:981][471]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.14-14.50.33:989][471]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.14-14.50.33:994][471]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.14-14.50.34:019][471]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.14-14.50.34:019][471]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.09.14-14.50.34:020][471]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.09.14-14.50.34:025][471]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.09.14-14.50.34:069][472]LogPlayLevel: Display: Destroying online subsystem :Context_10
