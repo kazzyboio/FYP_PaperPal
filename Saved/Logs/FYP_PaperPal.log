@@ -839,3 +839,154 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.09.14-13.54.37:901][966]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
 [2023.09.14-13.54.37:961][968]LogPlayLevel: Display: Destroying online subsystem :Context_11
 [2023.09.14-13.54.45:922][899]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 4CA8786E7CEB25742C9B169977CE1A651D81E9E6), compiling. 
+[2023.09.14-14.00.53:743][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.09.14-14.00.53:861][ 20]LogAssetEditorSubsystem: Opening Asset editor for World /Game/KennyBlockout/AzmyrTest.AzmyrTest
+[2023.09.14-14.00.53:875][ 20]Cmd: MAP LOAD FILE="C:/Users/User/Desktop/FYP_PaperPal/Content/KennyBlockout/AzmyrTest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.09.14-14.00.53:875][ 20]LightingResults: New page: Lighting Build
+[2023.09.14-14.00.53:875][ 20]LoadErrors: New page: Loading map: AzmyrTest.umap
+[2023.09.14-14.00.53:897][ 20]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.09.14-14.00.53:898][ 20]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.14-14.00.53:901][ 20]MapCheck: New page: Map Check
+[2023.09.14-14.00.53:901][ 20]LightingResults: New page: Lighting Build
+[2023.09.14-14.00.53:905][ 20]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.14-14.00.53:908][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.09.14-14.00.53:909][ 20]LogWorld: UWorld::CleanupWorld for AzmyrTest, bSessionEnded=true, bCleanupResources=true
+[2023.09.14-14.00.53:909][ 20]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.14-14.00.53:914][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.09.14-14.00.53:919][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.09.14-14.00.53:924][ 20]LogAudio: Display: Audio Device (ID: 1) registered with world 'AzmyrTest'.
+[2023.09.14-14.00.53:924][ 20]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.09.14-14.00.53:924][ 20]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.14-14.00.53:924][ 20]LogAIModule: Creating AISystem for world AzmyrTest
+[2023.09.14-14.00.53:937][ 20]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.09.14-14.00.53:943][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.09.14-14.00.53:949][ 20]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.09.14-14.00.53:949][ 20]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.113ms to complete.
+[2023.09.14-14.00.53:949][ 20]LogFileHelpers: Loading map 'AzmyrTest' took 0.074
+[2023.09.14-14.00.55:224][163]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.14-14.00.55:230][163]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.14-14.00.55:230][163]PIE: New page: PIE session: AzmyrTest (15 Sep 2023, 6:00:55 am)
+[2023.09.14-14.00.55:276][163]LogPlayLevel: Creating play world package: /Game/KennyBlockout/UEDPIE_0_AzmyrTest
+[2023.09.14-14.00.55:281][163]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004869s)
+[2023.09.14-14.00.55:281][163]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/KennyBlockout/AzmyrTest.AzmyrTest to /Game/KennyBlockout/UEDPIE_0_AzmyrTest.AzmyrTest (0.004974s)
+[2023.09.14-14.00.55:281][163]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.09.14-14.00.55:281][163]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.14-14.00.55:282][163]LogAIModule: Creating AISystem for world AzmyrTest
+[2023.09.14-14.00.55:282][163]LogPlayLevel: PIE: World Init took: (0.000641s)
+[2023.09.14-14.00.55:287][163]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.09.14-14.00.55:287][163]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.09.14-14.00.55:287][163]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.14-14.00.55:287][163]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.14-14.00.55:287][163]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.14-14.00.55:287][163]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.14-14.00.55:287][163]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.09.14-14.00.55:287][163]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.09.14-14.00.55:287][163]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.09.14-14.00.55:287][163]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.14-14.00.55:288][163]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.14-14.00.55:288][163]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.14-14.00.55:288][163]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.14-14.00.55:289][163]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.14-14.00.55:309][163]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2023.09.14-14.00.55:309][163]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.14-14.00.55:309][163]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.14-14.00.55:309][163]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.14-14.00.55:310][163]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2023.09.14-14.00.55:310][163]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2023.09.14-14.00.55:311][163]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2023.09.14-14.00.55:312][163]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2023.09.14-14.00.55:312][163]LogInit: FAudioDevice initialized.
+[2023.09.14-14.00.55:312][163]LogAudio: Display: Audio Device (ID: 4) registered with world 'AzmyrTest'.
+[2023.09.14-14.00.55:319][163]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.09.14-14.00.55:320][163]LogWorld: Bringing World /Game/KennyBlockout/UEDPIE_0_AzmyrTest.AzmyrTest up for play (max tick rate 0) at 2023.09.14-22.00.55
+[2023.09.14-14.00.55:320][163]LogWorld: Bringing up level for play took: 0.001059
+[2023.09.14-14.00.55:321][163]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2023.09.14-14.00.55:341][163]PIE: Server logged in
+[2023.09.14-14.00.55:342][163]PIE: Play in editor total start time 0.112 seconds.
+[2023.09.14-14.00.58:446][527]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.14-14.00.58:447][527]LogWorld: BeginTearingDown for /Game/KennyBlockout/UEDPIE_0_AzmyrTest
+[2023.09.14-14.00.58:447][527]LogWorld: UWorld::CleanupWorld for AzmyrTest, bSessionEnded=true, bCleanupResources=true
+[2023.09.14-14.00.58:447][527]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.14-14.00.58:457][527]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.14-14.00.58:458][527]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.14-14.00.58:463][527]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.14-14.00.58:463][527]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.09.14-14.00.58:464][527]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.09.14-14.00.58:468][527]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.09.14-14.00.58:515][530]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2023.09.14-14.01.41:721][239]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.09.14-14.01.41:758][239]LogAssetEditorSubsystem: Opening Asset editor for World /Game/KennyBlockout/d.d
+[2023.09.14-14.01.41:758][239]Cmd: MAP LOAD FILE="C:/Users/User/Desktop/FYP_PaperPal/Content/KennyBlockout/d.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.09.14-14.01.41:758][239]LightingResults: New page: Lighting Build
+[2023.09.14-14.01.41:758][239]LoadErrors: New page: Loading map: d.umap
+[2023.09.14-14.01.41:797][239]LogWorld: UWorld::CleanupWorld for AzmyrTest, bSessionEnded=true, bCleanupResources=true
+[2023.09.14-14.01.41:797][239]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.14-14.01.41:797][239]MapCheck: New page: Map Check
+[2023.09.14-14.01.41:797][239]LightingResults: New page: Lighting Build
+[2023.09.14-14.01.41:802][239]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.14-14.01.41:803][239]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.09.14-14.01.41:804][239]LogWorld: UWorld::CleanupWorld for d, bSessionEnded=true, bCleanupResources=true
+[2023.09.14-14.01.41:804][239]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.14-14.01.41:809][239]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.09.14-14.01.41:813][239]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.09.14-14.01.41:819][239]LogAudio: Display: Audio Device (ID: 1) registered with world 'd'.
+[2023.09.14-14.01.41:819][239]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.09.14-14.01.41:819][239]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.14-14.01.41:819][239]LogAIModule: Creating AISystem for world d
+[2023.09.14-14.01.41:831][239]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.09.14-14.01.41:837][239]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.09.14-14.01.41:842][239]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.09.14-14.01.41:843][239]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.108ms to complete.
+[2023.09.14-14.01.41:843][239]LogFileHelpers: Loading map 'd' took 0.084
+[2023.09.14-14.01.42:693][338]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.14-14.01.42:698][338]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.14-14.01.42:698][338]PIE: New page: PIE session: d (15 Sep 2023, 6:01:42 am)
+[2023.09.14-14.01.42:736][338]LogPlayLevel: Creating play world package: /Game/KennyBlockout/UEDPIE_0_d
+[2023.09.14-14.01.42:741][338]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004915s)
+[2023.09.14-14.01.42:741][338]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/KennyBlockout/d.d to /Game/KennyBlockout/UEDPIE_0_d.d (0.005020s)
+[2023.09.14-14.01.42:741][338]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.09.14-14.01.42:741][338]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.14-14.01.42:742][338]LogAIModule: Creating AISystem for world d
+[2023.09.14-14.01.42:742][338]LogPlayLevel: PIE: World Init took: (0.000616s)
+[2023.09.14-14.01.42:747][338]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.09.14-14.01.42:747][338]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.09.14-14.01.42:747][338]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.14-14.01.42:747][338]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.14-14.01.42:747][338]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.14-14.01.42:747][338]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.14-14.01.42:747][338]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.09.14-14.01.42:747][338]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.09.14-14.01.42:747][338]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.09.14-14.01.42:747][338]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.14-14.01.42:748][338]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.14-14.01.42:748][338]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.14-14.01.42:748][338]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.14-14.01.42:750][338]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.14-14.01.42:769][338]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2023.09.14-14.01.42:769][338]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.14-14.01.42:769][338]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.14-14.01.42:769][338]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.14-14.01.42:770][338]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2023.09.14-14.01.42:770][338]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2023.09.14-14.01.42:771][338]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2023.09.14-14.01.42:771][338]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2023.09.14-14.01.42:771][338]LogInit: FAudioDevice initialized.
+[2023.09.14-14.01.42:771][338]LogAudio: Display: Audio Device (ID: 5) registered with world 'd'.
+[2023.09.14-14.01.42:783][338]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.09.14-14.01.42:784][338]LogWorld: Bringing World /Game/KennyBlockout/UEDPIE_0_d.d up for play (max tick rate 0) at 2023.09.14-22.01.42
+[2023.09.14-14.01.42:785][338]LogWorld: Bringing up level for play took: 0.001083
+[2023.09.14-14.01.42:786][338]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2023.09.14-14.01.42:788][338]PIE: Server logged in
+[2023.09.14-14.01.42:789][338]PIE: Play in editor total start time 0.091 seconds.
+[2023.09.14-14.01.44:436][531]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.14-14.01.44:437][531]LogWorld: BeginTearingDown for /Game/KennyBlockout/UEDPIE_0_d
+[2023.09.14-14.01.44:437][531]LogWorld: UWorld::CleanupWorld for d, bSessionEnded=true, bCleanupResources=true
+[2023.09.14-14.01.44:437][531]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.14-14.01.44:450][531]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.14-14.01.44:452][531]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.14-14.01.44:456][531]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.14-14.01.44:457][531]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.09.14-14.01.44:458][531]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.09.14-14.01.44:462][531]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.09.14-14.01.44:507][534]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2023.09.14-14.03.14:109][960]LogContentBrowser: Attempting asset rename: d -> d
