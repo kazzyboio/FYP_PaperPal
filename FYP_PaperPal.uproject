@@ -15,5 +15,8 @@
 			"Name": "Takes",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Windows"
 	]
 }
