@@ -1,6 +1,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿Log file open, 11/11/23 23:35:35
+=======
+﻿Log file open, 11/03/23 13:59:28
+>>>>>>> parent of cf143ea (Dialogue rework, frog & tomato, fade & tp)
 =======
 ﻿Log file open, 11/03/23 13:59:28
 >>>>>>> parent of cf143ea (Dialogue rework, frog & tomato, fade & tp)
@@ -16,7 +20,11 @@ LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogWindows: Started CrashReportClient (pid=3764)
+=======
+LogWindows: Started CrashReportClient (pid=16436)
+>>>>>>> parent of cf143ea (Dialogue rework, frog & tomato, fade & tp)
 =======
 LogWindows: Started CrashReportClient (pid=16436)
 >>>>>>> parent of cf143ea (Dialogue rework, frog & tomato, fade & tp)
@@ -38,6 +46,7 @@ LogCsvProfiler: Display: Metadata set : pgoenabled="0"
 LogCsvProfiler: Display: Metadata set : loginid="75558edb437623025ec98093922ebd06"
 LogCsvProfiler: Display: Metadata set : llm="0"
 LogPlatformFile: Not using cached read wrapper
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 LogStats: Stats thread started at 0.365087
@@ -68,6 +77,13 @@ LogInit: Session CrashGUID >====================================================
          Session CrashGUID >   UECC-Windows-D385510F40D810093C5000B7E215FB9E
          Session CrashGUID >====================================================
 >>>>>>> parent of cf143ea (Dialogue rework, frog & tomato, fade & tp)
+=======
+LogStats: Stats thread started at 0.347401
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-D385510F40D810093C5000B7E215FB9E
+         Session CrashGUID >====================================================
+>>>>>>> parent of cf143ea (Dialogue rework, frog & tomato, fade & tp)
 LogConfig: Display: Loading HoloLens ini files took 0.03 seconds
 LogConfig: Display: Loading Android ini files took 0.03 seconds
 LogConfig: Display: Loading IOS ini files took 0.03 seconds
@@ -79,6 +95,9 @@ LogConfig: Display: Loading Unix ini files took 0.03 seconds
 LogConfig: Display: Loading VulkanPC ini files took 0.03 seconds
 LogConfig: Display: Loading Windows ini files took 0.03 seconds
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of cf143ea (Dialogue rework, frog & tomato, fade & tp)
+=======
 >>>>>>> parent of cf143ea (Dialogue rework, frog & tomato, fade & tp)
 =======
 >>>>>>> parent of cf143ea (Dialogue rework, frog & tomato, fade & tp)
@@ -86,6 +105,7 @@ LogPluginManager: Mounting Engine plugin Bridge
 LogPluginManager: Mounting Engine plugin FastBuildController
 LogPluginManager: Mounting Engine plugin MeshPainting
 LogPluginManager: Mounting Engine plugin XGEController
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 LogPluginManager: Mounting Engine plugin AISupport
@@ -104,6 +124,15 @@ LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
 LogPluginManager: Mounting Engine plugin ControlRig
 LogPluginManager: Mounting Engine plugin ControlRigSpline
 LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+=======
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+>>>>>>> parent of cf143ea (Dialogue rework, frog & tomato, fade & tp)
 =======
 LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
 LogPluginManager: Mounting Engine plugin Paper2D
@@ -125,6 +154,7 @@ LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
 LogPluginManager: Mounting Engine plugin GitSourceControl
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
 LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
 LogPluginManager: Mounting Engine plugin PerforceSourceControl
@@ -139,6 +169,8 @@ LogPluginManager: Mounting Engine plugin TextureFormatOodle
 =======
 =======
 >>>>>>> parent of cf143ea (Dialogue rework, frog & tomato, fade & tp)
+=======
+>>>>>>> parent of cf143ea (Dialogue rework, frog & tomato, fade & tp)
 LogPluginManager: Mounting Engine plugin PerforceSourceControl
 LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
 LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
@@ -151,6 +183,9 @@ LogPluginManager: Mounting Engine plugin SubversionSourceControl
 LogPluginManager: Mounting Engine plugin TextureFormatOodle
 LogPluginManager: Mounting Engine plugin TraceDataFilters
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of cf143ea (Dialogue rework, frog & tomato, fade & tp)
+=======
 >>>>>>> parent of cf143ea (Dialogue rework, frog & tomato, fade & tp)
 =======
 >>>>>>> parent of cf143ea (Dialogue rework, frog & tomato, fade & tp)
@@ -160,6 +195,7 @@ LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
 LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogPluginManager: Mounting Engine plugin DatasmithContent
 LogPluginManager: Mounting Engine plugin AssetManagerEditor
 LogPluginManager: Mounting Engine plugin VariantManagerContent
@@ -193,6 +229,8 @@ LogPluginManager: Mounting Engine plugin AlembicImporter
 =======
 =======
 >>>>>>> parent of cf143ea (Dialogue rework, frog & tomato, fade & tp)
+=======
+>>>>>>> parent of cf143ea (Dialogue rework, frog & tomato, fade & tp)
 LogPluginManager: Mounting Engine plugin AssetManagerEditor
 LogPluginManager: Mounting Engine plugin CurveEditorTools
 LogPluginManager: Mounting Engine plugin CryptoKeys
@@ -224,6 +262,9 @@ LogPluginManager: Mounting Engine plugin CharacterAI
 LogPluginManager: Mounting Engine plugin AlembicImporter
 LogPluginManager: Mounting Engine plugin Niagara
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of cf143ea (Dialogue rework, frog & tomato, fade & tp)
+=======
 >>>>>>> parent of cf143ea (Dialogue rework, frog & tomato, fade & tp)
 =======
 >>>>>>> parent of cf143ea (Dialogue rework, frog & tomato, fade & tp)
@@ -235,6 +276,7 @@ LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
 LogPluginManager: Mounting Engine plugin OpenImageDenoise
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogPluginManager: Mounting Engine plugin PlanarCut
 LogPluginManager: Mounting Engine plugin ProxyLODPlugin
 LogPluginManager: Mounting Engine plugin PythonScriptPlugin
@@ -280,6 +322,19 @@ LogPluginManager: Mounting Engine plugin LevelSequenceEditor
 LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
 LogPluginManager: Mounting Engine plugin SequencerScripting
 >>>>>>> parent of cf143ea (Dialogue rework, frog & tomato, fade & tp)
+=======
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+>>>>>>> parent of cf143ea (Dialogue rework, frog & tomato, fade & tp)
 LogPluginManager: Mounting Engine plugin TemplateSequence
 LogPluginManager: Mounting Engine plugin PlanarCut
 LogPluginManager: Mounting Engine plugin ProxyLODPlugin
@@ -290,6 +345,9 @@ LogPluginManager: Mounting Engine plugin TcpMessaging
 LogPluginManager: Mounting Engine plugin UdpMessaging
 LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of cf143ea (Dialogue rework, frog & tomato, fade & tp)
+=======
 >>>>>>> parent of cf143ea (Dialogue rework, frog & tomato, fade & tp)
 =======
 >>>>>>> parent of cf143ea (Dialogue rework, frog & tomato, fade & tp)
@@ -311,8 +369,11 @@ LogPluginManager: Mounting Engine plugin AudioCapture
 LogPluginManager: Mounting Engine plugin AudioSynesthesia
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogPluginManager: Mounting Engine plugin ChunkDownloader
 LogPluginManager: Mounting Engine plugin CustomMeshComponent
+=======
+>>>>>>> parent of cf143ea (Dialogue rework, frog & tomato, fade & tp)
 =======
 >>>>>>> parent of cf143ea (Dialogue rework, frog & tomato, fade & tp)
 =======
@@ -323,9 +384,14 @@ LogPluginManager: Mounting Engine plugin CustomMeshComponent
 LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogPluginManager: Mounting Engine plugin GeometryProcessing
 LogPluginManager: Mounting Engine plugin GeometryCache
 LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+=======
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+>>>>>>> parent of cf143ea (Dialogue rework, frog & tomato, fade & tp)
 =======
 LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
 LogPluginManager: Mounting Engine plugin GeometryProcessing
@@ -344,12 +410,18 @@ LogPluginManager: Mounting Engine plugin MeshModelingToolset
 LogPluginManager: Mounting Engine plugin MobilePatchingUtils
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
 LogPluginManager: Mounting Engine plugin PropertyAccessEditor
 =======
 LogPluginManager: Mounting Engine plugin Takes
 LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
 LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+=======
+LogPluginManager: Mounting Engine plugin Takes
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+>>>>>>> parent of cf143ea (Dialogue rework, frog & tomato, fade & tp)
 =======
 LogPluginManager: Mounting Engine plugin Takes
 LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
@@ -368,9 +440,15 @@ LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
 LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
 LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
 LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+=======
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+>>>>>>> parent of cf143ea (Dialogue rework, frog & tomato, fade & tp)
 =======
 LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
 LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
@@ -392,6 +470,7 @@ LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animati
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
@@ -405,6 +484,8 @@ LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experim
 =======
 =======
 >>>>>>> parent of cf143ea (Dialogue rework, frog & tomato, fade & tp)
+=======
+>>>>>>> parent of cf143ea (Dialogue rework, frog & tomato, fade & tp)
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
@@ -415,6 +496,9 @@ LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experim
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of cf143ea (Dialogue rework, frog & tomato, fade & tp)
+=======
 >>>>>>> parent of cf143ea (Dialogue rework, frog & tomato, fade & tp)
 =======
 >>>>>>> parent of cf143ea (Dialogue rework, frog & tomato, fade & tp)
@@ -425,9 +509,15 @@ LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experim
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+=======
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+>>>>>>> parent of cf143ea (Dialogue rework, frog & tomato, fade & tp)
 =======
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
@@ -526,6 +616,7 @@ LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable crea
 LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
 LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
 LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 [2023.11.11-15.35.36:479][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
@@ -1653,6 +1744,8 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 =======
 =======
 >>>>>>> parent of cf143ea (Dialogue rework, frog & tomato, fade & tp)
+=======
+>>>>>>> parent of cf143ea (Dialogue rework, frog & tomato, fade & tp)
 [2023.11.03-05.59.29:155][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
 [2023.11.03-05.59.29:155][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
 [2023.11.03-05.59.29:155][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
@@ -2410,6 +2503,9 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.11.03-06.32.16:789][584]LogCore: Engine exit requested (reason: Win RequestExit)
 [2023.11.03-06.32.16:809][584]Log file closed, 11/03/23 14:32:16
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of cf143ea (Dialogue rework, frog & tomato, fade & tp)
+=======
 >>>>>>> parent of cf143ea (Dialogue rework, frog & tomato, fade & tp)
 =======
 >>>>>>> parent of cf143ea (Dialogue rework, frog & tomato, fade & tp)
